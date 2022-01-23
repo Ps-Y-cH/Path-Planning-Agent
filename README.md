@@ -1,4 +1,4 @@
 # Path-Planning-Agent
 An Intelligent artificial Vacuum Cleaner agent planning path in an informed environment to clean dirt.
 
-![img](./images/run.gif)
+![img](./Images/run.gif)
